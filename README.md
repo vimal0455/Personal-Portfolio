@@ -1,13 +1,142 @@
-# Vimal Portfolio
+# 🌐 Personal Portfolio Website
 
-A static portfolio website with a Three.js hero scene, responsive sections, scroll reveal animation, tilting project cards, mobile navigation, and a polished contact form state.
+A modern, responsive personal portfolio website showcasing my skills, projects, certifications, education, and journey as a Cyber Security Engineering student.
 
-## Open
+## 🚀 Live Demo
 
-Open `index.html` in a browser. The page uses CDN-hosted Google Fonts and Three.js, so an internet connection is needed for the full visual experience.
+🔗 https://yourusername.github.io/portfolio/
 
-## Files
+> Replace the above link with your GitHub Pages URL after deployment.
 
-- `index.html` - portfolio content and page structure
-- `styles.css` - responsive design, layout, and CSS animations
-- `script.js` - Three.js scene, scroll reveals, cursor, tilt effects, menu, and form behavior
+---
+
+## 📌 About
+
+This portfolio is designed to represent my professional profile and demonstrate my web development skills. It highlights my projects, technical skills, certifications, resume, and contact information in a clean and responsive interface.
+
+---
+
+## ✨ Features
+
+- 🏠 Modern Hero Section
+- 👨‍💻 About Me
+- 💡 Technical Skills
+- 📂 Project Showcase
+- 🎓 Education Timeline
+- 📄 Downloadable Resume
+- 🏆 Certifications Section
+- 📞 Contact Form
+- 📱 Fully Responsive Design
+- 🎨 Glassmorphism UI
+- ⚡ Smooth Scrolling
+- 🔥 Scroll Reveal Animations
+- 🖱️ Interactive Cursor Effects
+- 💻 Mobile Friendly Navigation
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Git & GitHub
+
+---
+
+## 📂 Folder Structure
+
+```
+Portfolio/
+│
+├── index.html
+├── styles.css
+├── script.js
+├── assets/
+│   ├── images
+│   ├── resume
+│   └── certifications
+└── README.md
+```
+
+---
+
+## 📸 Website Sections
+
+- Home
+- About
+- Skills
+- Projects
+- Education
+- Resume
+- Certifications
+- Contact
+
+---
+
+## 🚀 Projects Included
+
+- College Department Website
+- StepStyle Footwear Website
+- Cyber Security Portfolio
+- Java OOP Programs
+- Python Mini Projects
+
+---
+
+## 📱 Responsive Design
+
+The website is fully responsive and works across:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+---
+
+## 📥 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Open the project
+
+```bash
+cd portfolio
+```
+
+Run
+
+Simply open **index.html** in your browser.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Vimal V**
+
+Cyber Security Engineering Student
+
+### Connect with me
+
+- GitHub: https://github.com/vimal0455
+- LinkedIn: https://www.linkedin.com/in/vimal-v-222227386/
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ star the repository.
+
+It motivates me to build more awesome projects!
